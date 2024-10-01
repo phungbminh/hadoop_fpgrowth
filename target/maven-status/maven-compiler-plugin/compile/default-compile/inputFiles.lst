@@ -1,0 +1,13 @@
+/Users/minhbui/eclipse-workspace/hadoop-fpgrowth/src/main/java/com/phung/fpgrowth/dto/Itemset.java
+/Users/minhbui/eclipse-workspace/hadoop-fpgrowth/src/main/java/com/phung/fpgrowth/dto/AbstractItemset.java
+/Users/minhbui/eclipse-workspace/hadoop-fpgrowth/src/main/java/com/phung/fpgrowth/dto/FPTree.java
+/Users/minhbui/eclipse-workspace/hadoop-fpgrowth/src/main/java/com/phung/fpgrowth/dto/FPNode.java
+/Users/minhbui/eclipse-workspace/hadoop-fpgrowth/src/main/java/com/phung/fpgrowth/dto/AbstractOrderedItemset.java
+/Users/minhbui/eclipse-workspace/hadoop-fpgrowth/src/main/java/com/phung/fpgrowth/parallel/counting/ParallelCountingMapper.java
+/Users/minhbui/eclipse-workspace/hadoop-fpgrowth/src/main/java/com/phung/fpgrowth/FpGrowth.java
+/Users/minhbui/eclipse-workspace/hadoop-fpgrowth/src/main/java/com/phung/fpgrowth/parallel/counting/ParallelCountingReducer.java
+/Users/minhbui/eclipse-workspace/hadoop-fpgrowth/src/main/java/com/phung/fpgrowth/dto/ArraysAlgos.java
+/Users/minhbui/eclipse-workspace/hadoop-fpgrowth/src/main/java/com/phung/fpgrowth/parallel/fpgrowth/ParallelFpMapper.java
+/Users/minhbui/eclipse-workspace/hadoop-fpgrowth/src/main/java/com/phung/fpgrowth/App.java
+/Users/minhbui/eclipse-workspace/hadoop-fpgrowth/src/main/java/com/phung/fpgrowth/parallel/fpgrowth/ParallelFpReducer.java
+/Users/minhbui/eclipse-workspace/hadoop-fpgrowth/src/main/java/com/phung/fpgrowth/utils/MemoryLogger.java
